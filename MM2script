@@ -1,1 +1,13 @@
+--==================================================
+-- JT HUB | DUAL LOADSTRING EXECUTOR
+--==================================================
 
+-- SCRIPT 1
+task.spawn(function()
+    loadstring(game:HttpGet(https://rawscripts.net/raw/Universal-Script-YARHM-12403))()
+end)
+
+-- SCRIPT 2
+task.spawn(function()
+    loadstring(game:HttpGet(https://botthepan.onrender.com/script/8c7d461254d6ea70))()
+end)
