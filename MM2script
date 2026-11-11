@@ -4,10 +4,10 @@
 
 -- SCRIPT 1
 task.spawn(function()
-    loadstring(game:HttpGet(https://rawscripts.net/raw/Universal-Script-YARHM-12403))()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-YARHM-12403"))()
 end)
 
 -- SCRIPT 2
 task.spawn(function()
-    loadstring(game:HttpGet(https://botthepan.onrender.com/script/8c7d461254d6ea70))()
+    loadstring(game:HttpGet("https://botthepan.onrender.com/script/8c7d461254d6ea70"))()
 end)
